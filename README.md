@@ -1,3 +1,3 @@
 # tarea-05
 # Mariangel Arrieta
-Objetivo: Familiarizarse con el manejo de versiones a traves de Git.
+# Objetivo: Familiarizarse con el manejo de versiones a traves de Git.
